@@ -1,2 +1,3 @@
-# New-UI
-全新BLP网页UI设计 [Alpha]
+# Basil UI
+Alpha v0.001
+# 您可以前往Issues进行反馈及建议。
